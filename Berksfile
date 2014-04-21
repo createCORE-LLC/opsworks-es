@@ -1,4 +1,4 @@
-metadata
+site :opscode
 
 cookbook 'apt'
 cookbook 'ark'
